@@ -2,7 +2,7 @@
 
 set -o errexit -o xtrace
 
-bucket=nbt-templates
+bucket=nbt-continuous-deployment
 #regions=(
 #  ap-northeast-1
 #  ap-southeast-1
